@@ -1,1 +1,2 @@
 name = "Sam"
+puts name
