@@ -1,2 +1,3 @@
 name = "Sam"
-puts "My name is #{name}"
+age = "basically 16 years"
+puts "My name is #{name} and I am #{age} old"
