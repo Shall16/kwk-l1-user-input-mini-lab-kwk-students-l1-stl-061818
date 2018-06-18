@@ -5,5 +5,3 @@ stay = gets.chomp.capitalize
 
 
 
-
-puts ""
