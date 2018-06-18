@@ -1,5 +1,5 @@
 puts "Let's plan your trip! Where would you like to stay?"
-puts=gets.chomp
+place + gets.chomp
 
 
 
